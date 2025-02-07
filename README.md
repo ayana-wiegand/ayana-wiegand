@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Web Tech
+- 🌱 I’m currently learning HTML,CSS and JS
+
+btw i use arch! i love linux
